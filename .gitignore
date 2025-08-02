@@ -1,0 +1,4 @@
+# omite cualquier error
+.env
+pycache/
+venv/
